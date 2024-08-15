@@ -322,7 +322,7 @@ button:focus:not(:focus-visible) {
 
 .main-banner {
   background-color: #333;
-  background-image: url("https://modo3.com/thumbs/fit630x300/398/1532270515/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.jpg");
+  background-image: url("/assets/images/quran-586569_1280.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
